@@ -1,7 +1,7 @@
 # Phishing Email Analysis Report
 
 ## Email Sample Used
-[Describe or include the phishing email you analyzed]
+[http://amaz0n-account-verification.xyz/login]
 
 ## Phishing Indicators Found
 
@@ -20,4 +20,4 @@
 
 ## Tools Used
 - MXToolbox Email Header Analyzer
-- Custom Python analysis script
+- google admin toolbox
